@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace the URL below with your actual uploaded logo path after adding it to the repo -->
-<img src="https://www.k-doit.com/wp-content/uploads/2021/03/logo.png" alt="DOIT Company Logo" width="200"/>
+<img src="logo.png" alt="DOIT Company Logo" width="200"/> alt="DOIT Company Logo" width="200"/>
 
 # 지진 데이터 통합 과제
 ### Earthquake Data Integration Project
